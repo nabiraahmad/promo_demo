@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@600&display=swap&family=Metal+Mania&display=swap&family=Noto+Serif:wght@900&display=swap');
+
+body{
+	background-color: #f0efe8;
+	color: #fff;
+	font-family: sans-serif;
+	text-align: center;
+}
+
+p{
+	font-family: monospace;
+	color: #000;
+}
+
+#heading {
+	font-family: 'Roboto', sans-serif;
+	font-size: 80px;
+	font-weight: bold;
+	text-align: center;
+	color: #6b3f0d;
+	font-style: italic;
+	border: 5px solid seagreen;
+	display: inline-block;
+	padding: 10px;
+	border-radius: 50px;
+}
+
+
+
+.container {
+        display: flex; /* Use flexbox to align items horizontally */
+        align-items: center; /* Center items vertically */
+    }
+
+.image {
+    width: 300px; /* Adjust the width of the image as needed */
+    margin: 0 auto; /* Add some spacing between image and text */
+}
+
+.text-box {
+    padding: 10px; 
+    border-radius: 5px;  
+    margin-left:10px;
+    margin-right: auto;
+    font-size: 15px;
+}
+
+.stars{
+	width: 200px;
+	float: right;
+}
+
+.cloudLeft{
+	width: 200px;
+	float: left;
+}
+
+.cloudRight{
+	width: 200px;
+	float: right;
+}
+
+#igor{
+	background-color: #f7b4c6;
+	font-family: 'Metal Mania', cursive;
+	border-radius: 40px;
+	font-size: 50px;
+	margin-left: 50px;
+	text-align: center;
+}
+
+#goblin{
+	font-family: 'Noto Serif', serif;
+	font-size: 50px;
+	margin-left: 50px;
+	text-align: center;
+	border-radius: 40px;
+	color: #C2FE22;
+	background-color: #066990;
+
+}
+
+#callme{
+
+	font-size: 50px;
+	margin-left: 50px;
+	text-align: center;
+	border-radius: 40px;
+	font-family: 'Noto Sans', sans-serif;
+	background-color: #aedff7;
+	color: #80461B;
+
+}
+
+
+#flowerboy{
+
+	font-size: 50px;
+	margin-left: 50px;
+	text-align: center;
+	border-radius: 40px;
+	font-family: 'Noto Sans', sans-serif;
+	background-color: #f4c32b;
+	color: #dd3207;
+
+}
+
+.flowerLeft{
+	width: 200px;
+	float: left;
+}
+
+    
+.cool-line {
+            background: linear-gradient(to right, #ff9900, #9900ff); /* Gradient line color */
+            height: 3px; /* Line thickness */
+            width: 100%; /* Full width of the container */
+            margin-top: 20px; /* Adjust the margin to position the line */
+        }
+
+#aboutHead{
+	font-family: 'Roboto', sans-serif;
+	font-size: 45px;
+	font-weight: bold;
+	text-align: center;
+	color: #6b3f0d;
+	font-style: italic;
+}
+
+#about{
+	margin-left: 500px;
+	margin-right: 500px;
+	text-align: center;
+	color: #000;
+}
+
+#twitter{
+	width: 50px;
+}
+
+#insta{
+	width: 45px;
+}
+
+#music{
+	width: 45px;
+}
+
+#spotify{
+	width:45px;
+}
+
